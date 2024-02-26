@@ -12,7 +12,6 @@
 - Instalação do pyaes (pip install pyaes)
 - Criação de arquivo teste.txt
 - Execução do script "encrypter.py"
-- ![Alt text](./encrypter.py "Optional title")
 - Execução de script "descrypter.py"
 
 ### Resultado
